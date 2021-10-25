@@ -1,9 +1,9 @@
-Folder S5 comprises of three files:
+### Folder S5 comprises of three files:
 1. Session5_1
 2. Session5_2
 3. Session5_3
 
-The Problem statememt is as follows :
+### The Problem statememt is as follows :
  Create a MNIST Classification Model using CNN , The Target of this Assignment is as follows :
   A) Achieve a  99.4% (this must be consistently shown in your last few epochs, and not a one-time achievement)
   B) Less than or equal to 15 Epochs.
