@@ -1,7 +1,7 @@
 ### Folder S5 comprises of three files:
-1. Session5_1
-2. Session5_2
-3. Session5_3
+1. Session5_1_M: Iteration 1 
+2. Session5_2_M: Iteration 2
+3. Session5_3_M: Iteration 3 
 
 ### The Problem statememt is as follows :
  Create a MNIST Classification Model using CNN , The Target of this Assignment is as follows :
